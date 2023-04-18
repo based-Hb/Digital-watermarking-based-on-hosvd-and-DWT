@@ -1,2 +1,2 @@
 # Digital-watermarking-based-on-hosvd-and-DWT
-MATLAB 代码
+高阶张量奇异值分解及其在水印中的应用研究的MATLAB代码
